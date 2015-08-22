@@ -1,0 +1,12 @@
+name: 'MailChimp Campaign Test'
+type: module
+description: 'MailChimp Campaign Test Module.'
+package: Testing
+# version: VERSION
+# core: 8.x
+
+# Information added by Drupal.org packaging script on 2015-05-12
+version: '8.x-1.0-alpha1'
+core: '8.x'
+project: 'mailchimp'
+datestamp: 1431449894
